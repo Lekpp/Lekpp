@@ -1,16 +1,20 @@
-## Hi there 👋
+# Разработчик
 
-<!--
-**Lekpp/Lekpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу на C# и .NET: интерфейсы, игровая логика, баланс, исправление багов.
 
-Here are some ideas to get you started:
+C# · .NET · XAML · YAML · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Чем занимаюсь
+
+- **Интерфейсы.** Окна на XAML в едином стиле.
+- **Логика.** Небольшие системы на C# и данные к ним в YAML.
+- **Баланс.** Характеристики, цены, награды.
+- **Исправления.** Баги, которые находят пользователи.
+
+## Как работаю
+
+- Небольшие PR: одно изменение, одно описание.
+- Проверяю каждый вызов по исходникам, чтобы не сломать сборку.
+- Код и названия коммитов пишу по-английски.
+
+<sub>Developer: C# and .NET, UI, game logic, balance, bug fixes.</sub>
